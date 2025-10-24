@@ -14,8 +14,8 @@ export default function Features() {
     },
     {
       icon: Users,
-      title: 'Personal Training & Classes',
-      description: 'Expert coaches and community-driven group classes to help you reach your goals.',
+      title: 'Undefeated Atmosphere',
+      description: 'Old school grit, high grade equipment. Built for people who show up.',
     },
     {
       icon: Zap,
